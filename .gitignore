@@ -1,0 +1,70 @@
+# =========================
+# Unity generated folders
+# =========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# =========================
+# Build/output folders
+# =========================
+
+output/
+Build/
+Builds/
+
+# =========================
+# IDE / Visual Studio
+# =========================
+
+.vs/
+.vscode/
+.idea/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Visual Studio generated files
+.vsconfig
+
+# =========================
+# Unity generated solution files
+# =========================
+
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Crash reports
+# =========================
+
+sysinfo.txt
+
+# =========================
+# Asset Store / temporary
+# =========================
+
+*.tmp
+*.temp
+*.bak
